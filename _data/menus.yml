@@ -1,32 +1,36 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Inicio
   url: ""
 
-- title: About
-  url: "about/"
+#- title: Tools
+#  url: "tools"
 
-- title: Contact
-  url: "contact/"
+#- title: About
+#  url: "about/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
+#- title: Contacto
+#  url: "contact/"
+
+#- title: Get this theme  
+#  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+#  class: "ml-2 btn btn-dark text-white px-3"
+#  external: true
 
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Inicio
   url: ""
 
-- title: Privacy Policy
+- title: Política de Privacidad
   url: "privacy-policy/"
 
-- title: Contact
-  url: "contact/"
+#- title: Contactame
+#  url: "contact/"
 
-- title: Download
+- title: Descargar este tema
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+  class: "ml-2 btn btn-dark text-white px-3"  
   external: true
