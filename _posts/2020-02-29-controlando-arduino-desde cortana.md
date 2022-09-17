@@ -2,7 +2,7 @@
 layout: post
 title:  "Controlar Arduino desde Cortana"
 author: kuatroestrellas
-categories: [ IoT, arduino, blynk, Cortana, IFTTT ]
+categories: [ IoT, arduino, blynk ]
 image: assets/images/2post.jpg
 description: "Controlar luces de arduino remotamente desde Cortana"
 ---
