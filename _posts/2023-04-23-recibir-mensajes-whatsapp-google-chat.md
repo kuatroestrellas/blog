@@ -5,7 +5,6 @@ author: kuatroestrellas
 categories: [ nodeJS, bots, whatsapp, google chat ]
 image: assets/images/whatsapp-google-chat.jpg
 description: ""
-featured: True
 ---
 En esta ocasión vamos a redirigir todos los mensajes de whatsapp a el chat de google utilizando un bot hecho en javascript con node.js
 

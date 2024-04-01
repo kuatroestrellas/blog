@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Controlar Arduino desde Cortana"
+title:  "Controlar Arduino desde Cortana [OBSOLETO]"
 author: kuatroestrellas
 categories: [ IoT, arduino, blynk ]
 image: assets/images/2post.jpg
 description: "Controlar luces de arduino remotamente desde Cortana"
 ---
 ## HOLA CORTANA prende la luz  
+
+CORTANA dejó de tener soporte en windows en otoño de 2023 por lo que este proyecto actualmente no funciona, sin embargo dejamos el post por referencias a proyectos similares.
 
 Hola makers, en esta ocasión les traigo un tutorial para controlar lo que tu Arduino pueda controlar mediante comandos de voz con la asistente virtual **Cortana**. 
 
