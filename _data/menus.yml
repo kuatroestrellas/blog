@@ -4,6 +4,8 @@ topmenu:
 - title: Inicio
   url: ""
 
+- title: Mikrotik Voucher
+  url: "voucher-gen"
 #- title: Plantillas Mikrotik
 #  url: "plantillas-mikrotik/"
 

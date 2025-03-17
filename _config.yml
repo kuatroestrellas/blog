@@ -31,7 +31,7 @@ authors:
     avatar: 'assets/images/arturo.jpg'
     email: kuatroestrellas@gmail.com
     web: https://www.kuatroestrellas.github.io
-    twitter: https://www.facebook.com/kuatroestrellas
+    #twitter: https://www.facebook.com/kuatroestrellas
     description: "Ing en TICs, Copy&Paste expert"
 #  john:
 #    name: John
@@ -45,8 +45,8 @@ authors:
 # Social
 social:
   instagram: https://www.instagram.com/kuatroestrellas/
-  facebook: https://www.facebook.com/kuatroestrellas
-  twitter: https://twitter.com/bstartercom
+  facebook: https://www.facebook.com/kuatroestrellas1
+  #twitter: https://twitter.com/
   youtube: https://www.youtube.com/channel/UC6z6CXj2bMN1tcSGvHZJYCw?sub_confirmation=1
 
 # Plugins
