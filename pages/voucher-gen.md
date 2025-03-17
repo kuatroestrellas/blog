@@ -233,7 +233,7 @@ function generarPDF() {
 
     // Configuración de la hoja y tabla
     const columnasPorHoja = 4;
-    const filasPorHoja = 10;
+    const filasPorHoja = 12;
     const anchoColumna = (doc.internal.pageSize.width - 20) / columnasPorHoja;
     const altoFila = 20;
     const margenSuperior = 20;
