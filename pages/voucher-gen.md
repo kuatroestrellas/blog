@@ -85,10 +85,10 @@ Bienvenido al generador de usuarios para MikroTik Hotspot, una herramienta gratu
             <input type="text" id="profile" class="form-control" value="default" required>
         </div>
 
-        <div class="mb-3">
+        <!--<div class="mb-3">
             <label for="servidor" class="form-label">Server Hotspot:</label>
-            <input type="text" id="servidor" class="form-control" value="all" required>
-        </div>
+            <input type="text" id="servidor" class="form-control" required>
+        </div>-->
 
         <button type="button" class="btn btn-primary w-100 mb-2" onclick="if (validarFormulario()) generar()">Generar Script y PDF</button>
     </form>
@@ -161,7 +161,7 @@ function generar() {
     const logueoPorPIN = document.getElementById("logueo-pin").value;
     const longitudPin = parseInt(document.getElementById("longitud-pin").value);
     const profile = document.getElementById("profile").value.trim(); // Quitar espacios en blanco
-    const servidor = document.getElementById("servidor").value.trim(); // Quitar espacios en blanco
+    //const servidor = document.getElementById("servidor").value.trim(); // Quitar espacios en blanco
 
     let scripts = [`/ip hotspot user`];
     let usuarios = [];
@@ -183,9 +183,9 @@ function generar() {
         }
 
         // Agregar server_hotspot si tiene valor
-        if (servidor) {
-            script += ` server_hotspot="${servidor}"`;
-        }
+        //if (servidor) {
+        //    script += ` server_hotspot="${servidor}"`;
+        //}
 
         scripts.push(script);
 
