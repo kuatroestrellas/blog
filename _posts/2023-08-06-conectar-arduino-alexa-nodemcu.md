@@ -10,7 +10,7 @@ featured: True
 En esta ocasión os enseñaré a conectar su placa NodeMCU ESP8266 a Alexa por medio de Arduino Cloud.
 Arduino ha creado una skill oficial para conectar sus proyectos con Alexa, es compatible con gran cantidad de Arduinos que cuentan con wifi o ethernet, sin embargo a mi parecer son algo costosos, por eso es que yo he optado por utilizar la famosa y barata placa NodeMCU ESP8266, anteriormente no se podía pero ahora ya se puede usar este hardware con Arduino Cloud.
 
-## Y si no tienes un alexa compralo desde mi link de referido plis <a target="_blank" href="https://www.amazon.com.mx/gp/search?ie=UTF8&tag=kuatroestre01-20&linkCode=ur2&linkId=88922280b087d899a5af82fe2f572397&camp=1789&creative=9325&index=electronics&keywords=Alexa">Click aquí</a>
+## Y si no tienes un alexa compralo desde mi link de referido plis <a target="_blank" href="https://mercadolibre.com/sec/2WWFWR8">Click aquí 🔗</a>
 
 ### Si vienes a copiar el código da click [aquí](#code)
 

@@ -5,7 +5,6 @@ author: kuatroestrellas
 categories: [ nodejs, bots, whatsapp ]
 image: assets/images/bot-nodejs.jpg
 description: "Crear bot para whatsapp con la libreria whatsapp-web.js y NodeJS"
-featured: True
 ---
 En este tutorial crearemos un simple bot para whatsapp en unos minutos totalmente gratis
 
